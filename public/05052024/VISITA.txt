@@ -1,0 +1,780 @@
+84.17.52.148 - 05-05-2024 13:40:00 Switzerland -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+160.177.156.236 - 05-05-2024 13:40:26 Morocco -- REDIRECTED 
+160.177.156.236 - 05-05-2024 13:41:45 Morocco -- REDIRECTED 
+160.177.156.236 - 05-05-2024 13:42:57 Morocco -- REDIRECTED 
+160.177.156.236 - 05-05-2024 13:49:07 Morocco -- REDIRECTED 
+160.177.156.236 - 05-05-2024 13:49:08 Morocco -- REDIRECTED 
+149.154.161.198 - 05-05-2024 13:49:19 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+159.242.234.53 - 05-05-2024 13:50:16 Germany -- BL0CK3D: "is_vpn": true; "domain": "avast.com"  
+159.242.234.53 - 05-05-2024 13:50:37 Germany -- BL0CK3D: "is_vpn": true; "domain": "avast.com"  
+31.164.121.172 - 05-05-2024 13:51:07 Switzerland -- REDIRECTED 
+40.94.90.58 - 05-05-2024 13:54:38 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+31.31.48.134 - 05-05-2024 13:57:53 Switzerland -- REDIRECTED 
+54.163.155.117 - 05-05-2024 13:58:03 United States -- BL0CK3D: "domain": "amazon.com"  
+142.234.115.209 - 05-05-2024 13:58:42 United States -- BL0CK3D: "is_vpn": true  
+146.112.163.42 - 05-05-2024 13:58:43 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.214.178.21 - 05-05-2024 14:07:13 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+152.39.215.56 - 05-05-2024 14:13:35 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:15:57 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:15:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.26 - 05-05-2024 14:17:04 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.94.52 - 05-05-2024 14:17:07 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+24.225.8.13 - 05-05-2024 14:23:29 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.202.236.132 - 05-05-2024 14:25:45 United States -- BL0CK3D: "domain": "amazon.com"  
+159.242.234.53 - 05-05-2024 14:30:11 Germany -- BL0CK3D: "is_vpn": true; "domain": "avast.com"  
+160.177.156.236 - 05-05-2024 14:30:47 Morocco -- REDIRECTED 
+94.100.133.41 - 05-05-2024 14:33:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:33:58 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+35.91.210.167 - 05-05-2024 14:34:04 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+20.205.153.200 - 05-05-2024 14:34:34 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:38 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:39 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+81.20.94.75 - 05-05-2024 14:37:39 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:40 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:41 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:45 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+51.116.130.204 - 05-05-2024 14:37:47 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:47 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:50 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.101.57 - 05-05-2024 14:37:51 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:37:52 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.239.71 - 05-05-2024 14:37:52 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.31 - 05-05-2024 14:38:32 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.99 - 05-05-2024 14:38:32 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:40:55 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:40:57 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:41:53 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:41:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.68.189.32 - 05-05-2024 14:41:59 Germany -- BL0CK3D: "domain": "amazon.com"; "domain": "amazon.de"  
+94.100.133.41 - 05-05-2024 14:42:43 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.231.212.136 - 05-05-2024 14:43:14 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.231.212.136 - 05-05-2024 14:43:15 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.231.212.136 - 05-05-2024 14:43:15 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.231.212.136 - 05-05-2024 14:43:16 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.234.68.150 - 05-05-2024 14:43:17 United States -- BL0CK3D: "domain": "amazon.com"  
+94.100.133.41 - 05-05-2024 14:43:42 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:43:44 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.246.53.215 - 05-05-2024 14:43:51 Ireland -- BL0CK3D: "domain": "amazon.com"  
+40.94.25.25 - 05-05-2024 14:43:51 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:46:53 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+77.37.252.132 - 05-05-2024 14:48:28 Russia -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:57 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:57 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:57 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:57 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:58 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:58 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:58 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:58 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+194.56.132.18 - 05-05-2024 14:48:59 Switzerland -- REDIRECTED 
+83.246.65.28 - 05-05-2024 14:48:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:48:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:48:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:49:00 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:49:00 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:49:00 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:49:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:49:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:49:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:49:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:49:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:49:02 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 14:49:03 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:52:13 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 14:52:15 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+196.81.51.73 - 05-05-2024 14:52:49 Morocco -- REDIRECTED 
+3.71.89.238 - 05-05-2024 14:57:02 Germany -- BL0CK3D: "domain": "amazon.com"; "domain": "amazon.de"  
+3.68.189.32 - 05-05-2024 14:58:16 Germany -- BL0CK3D: "domain": "amazon.com"; "domain": "amazon.de"  
+35.92.46.189 - 05-05-2024 14:58:28 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+40.94.86.84 - 05-05-2024 15:00:07 South Africa -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.88.86 - 05-05-2024 15:00:11 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+51.116.130.204 - 05-05-2024 15:00:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.143.143.194 - 05-05-2024 15:01:05 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:01:55 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:01:55 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:01:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:01:58 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:01:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:01:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.108.186.46 - 05-05-2024 15:02:45 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.108.186.46 - 05-05-2024 15:02:49 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+168.119.190.240 - 05-05-2024 15:02:50 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+168.119.190.240 - 05-05-2024 15:02:52 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+24.225.8.13 - 05-05-2024 15:03:54 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+24.225.8.13 - 05-05-2024 15:04:16 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.134.6 - 05-05-2024 15:04:28 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.134.6 - 05-05-2024 15:04:31 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:06:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:06:03 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:10:59 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:11:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+5.153.125.10 - 05-05-2024 15:11:44 Switzerland -- REDIRECTED 
+83.246.65.28 - 05-05-2024 15:12:05 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 15:12:26 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:12:26 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 15:12:28 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:12:28 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.120.241.215 - 05-05-2024 15:14:33 Germany -- BL0CK3D: "domain": "amazon.com"; "domain": "amazon.de"  
+196.81.51.73 - 05-05-2024 15:18:33 Morocco -- REDIRECTED 
+196.81.51.73 - 05-05-2024 15:18:54 Morocco -- REDIRECTED 
+40.94.28.50 - 05-05-2024 15:21:55 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.81 - 05-05-2024 15:22:21 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.96.17 - 05-05-2024 15:22:22 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.95.76 - 05-05-2024 15:22:24 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.95.70 - 05-05-2024 15:22:26 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.90.38 - 05-05-2024 15:22:27 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.90.42 - 05-05-2024 15:22:28 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+5.149.46.17 - 05-05-2024 15:22:35 Switzerland -- REDIRECTED 
+54.218.126.203 - 05-05-2024 15:23:12 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+104.165.199.76 - 05-05-2024 15:24:31 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+38.100.114.90 - 05-05-2024 15:24:34 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+77.58.196.216 - 05-05-2024 15:26:24 Switzerland -- REDIRECTED 
+195.210.117.246 - 05-05-2024 15:26:37 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+204.217.147.188 - 05-05-2024 15:26:38 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+89.104.122.42 - 05-05-2024 15:26:40 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+204.217.147.188 - 05-05-2024 15:26:41 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+204.217.147.188 - 05-05-2024 15:26:43 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+18.132.36.242 - 05-05-2024 15:27:24 United Kingdom -- BL0CK3D: "domain": "amazon.com"  
+18.132.36.242 - 05-05-2024 15:27:27 United Kingdom -- BL0CK3D: "domain": "amazon.com"  
+94.100.133.41 - 05-05-2024 15:29:07 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+193.218.118.133 - 05-05-2024 15:29:15  -- BL0CK3D: "is_tor": true; "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+62.159.252.203 - 05-05-2024 15:29:17 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+62.159.252.203 - 05-05-2024 15:29:19 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+81.20.94.247 - 05-05-2024 15:30:19 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:31:42 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.71.89.238 - 05-05-2024 15:35:08 Germany -- BL0CK3D: "domain": "amazon.com"; "domain": "amazon.de"  
+94.100.133.41 - 05-05-2024 15:35:13 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:35:15 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+172.225.27.66 - 05-05-2024 15:35:19 Switzerland -- REDIRECTED 
+94.100.134.6 - 05-05-2024 15:36:08 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+172.225.27.66 - 05-05-2024 15:36:14 Switzerland -- REDIRECTED 
+94.100.133.41 - 05-05-2024 15:37:04 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+122.171.20.99 - 05-05-2024 15:37:14 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+34.208.216.127 - 05-05-2024 15:37:22 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+34.210.240.27 - 05-05-2024 15:37:24 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+54.229.207.136 - 05-05-2024 15:38:54 Ireland -- BL0CK3D: "domain": "amazon.com"  
+91.208.75.178 - 05-05-2024 15:39:38  -- BL0CK3D: "is_tor": true; "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+122.171.20.99 - 05-05-2024 15:40:27 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:41:02 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+51.12.0.79 - 05-05-2024 15:41:54 Sweden -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.35.195.58 - 05-05-2024 15:41:59 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+94.100.133.41 - 05-05-2024 15:42:07 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.218.24.94 - 05-05-2024 15:42:09 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:42:09 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:42:52 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:43:10 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:43:12 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.7 - 05-05-2024 15:44:07 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:44:11 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:44:13 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+178.197.202.212 - 05-05-2024 15:44:49 Switzerland -- REDIRECTED 
+194.230.160.8 - 05-05-2024 15:45:34 Switzerland -- REDIRECTED 
+212.11.225.133 - 05-05-2024 15:47:20 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 15:47:20 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+212.11.225.133 - 05-05-2024 15:47:21 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 15:47:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:47:28 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:47:30 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+81.20.94.249 - 05-05-2024 15:47:37 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+35.90.6.97 - 05-05-2024 15:47:43 United States -- BL0CK3D: "domain": "amazon.com"  
+52.43.192.129 - 05-05-2024 15:47:47 United States -- BL0CK3D: "domain": "amazon.com"  
+52.149.182.255 - 05-05-2024 15:47:48 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.101.112.45 - 05-05-2024 15:48:49 United States -- BL0CK3D: "domain": "amazon.com"  
+3.101.112.45 - 05-05-2024 15:48:50 United States -- BL0CK3D: "domain": "amazon.com"  
+35.89.193.116 - 05-05-2024 15:48:51 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+3.101.112.45 - 05-05-2024 15:48:54 United States -- BL0CK3D: "domain": "amazon.com"  
+3.101.112.45 - 05-05-2024 15:48:55 United States -- BL0CK3D: "domain": "amazon.com"  
+34.213.43.121 - 05-05-2024 15:48:56 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+3.101.112.45 - 05-05-2024 15:48:59 United States -- BL0CK3D: "domain": "amazon.com"  
+3.101.112.45 - 05-05-2024 15:49:00 United States -- BL0CK3D: "domain": "amazon.com"  
+35.94.39.66 - 05-05-2024 15:49:01 United States -- BL0CK3D: "domain": "amazon.com"  
+94.100.133.41 - 05-05-2024 15:49:08 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:49:10 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:49:47 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:49:49 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+154.52.11.149 - 05-05-2024 15:51:15 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+154.52.11.149 - 05-05-2024 15:51:17 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:51:19 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+160.177.156.236 - 05-05-2024 15:51:26 Morocco -- REDIRECTED 
+94.100.133.41 - 05-05-2024 15:52:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 15:52:25 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+178.197.195.122 - 05-05-2024 15:54:47 Switzerland -- REDIRECTED 
+85.7.44.192 - 05-05-2024 15:55:13 Switzerland -- REDIRECTED 
+161.123.225.209 - 05-05-2024 15:57:16 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+195.210.117.132 - 05-05-2024 15:57:16 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+204.217.145.13 - 05-05-2024 15:57:16 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+155.254.29.77 - 05-05-2024 15:57:19 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+35.243.23.131 - 05-05-2024 15:57:21 United States -- BL0CK3D: "domain": "google.com"  
+35.243.23.131 - 05-05-2024 15:57:22 United States -- BL0CK3D: "domain": "google.com"  
+35.222.190.7 - 05-05-2024 15:57:22 United States -- BL0CK3D: "name": "Google"; "domain": "google.com"  
+75.101.237.83 - 05-05-2024 15:57:22 United States -- BL0CK3D: "domain": "amazon.com"  
+13.59.139.149 - 05-05-2024 15:57:22 United States -- BL0CK3D: "domain": "amazon.com"  
+18.227.26.23 - 05-05-2024 15:57:22 United States -- BL0CK3D: "domain": "amazon.com"  
+51.89.254.248 - 05-05-2024 15:57:23 United Kingdom -- BL0CK3D: "is_vpn": true  
+217.182.228.49 - 05-05-2024 15:57:23 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+206.204.4.109 - 05-05-2024 15:57:30 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+152.39.154.103 - 05-05-2024 15:57:31 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.37.100.109 - 05-05-2024 15:57:32 France -- BL0CK3D: "is_vpn": true  
+152.39.154.103 - 05-05-2024 15:57:32 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+161.123.107.237 - 05-05-2024 15:57:33 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+45.33.149.179 - 05-05-2024 15:57:34 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+51.81.71.221 - 05-05-2024 15:57:36 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.33.13 - 05-05-2024 15:57:37 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+5.149.46.17 - 05-05-2024 15:57:46 Switzerland -- REDIRECTED 
+65.108.186.9 - 05-05-2024 15:59:08 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.97 - 05-05-2024 15:59:12 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+168.119.190.240 - 05-05-2024 16:00:14 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.239.97 - 05-05-2024 16:00:37 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.34.76.65 - 05-05-2024 16:01:50 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+94.100.133.41 - 05-05-2024 16:03:22 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+46.235.240.132 - 05-05-2024 16:03:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 16:03:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+81.20.94.247 - 05-05-2024 16:03:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:24 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+194.56.132.18 - 05-05-2024 16:03:24 Switzerland -- REDIRECTED 
+94.100.133.41 - 05-05-2024 16:03:24 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:24 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+81.20.94.238 - 05-05-2024 16:03:25 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 16:03:25 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:25 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:25 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:26 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:26 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:27 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:28 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:03:29 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:05:21 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:05:23 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.105.39 - 05-05-2024 16:05:27 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+178.197.202.43 - 05-05-2024 16:05:55 Switzerland -- REDIRECTED 
+94.100.133.41 - 05-05-2024 16:06:11 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:06:13 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+196.81.51.73 - 05-05-2024 16:07:09 Morocco -- REDIRECTED 
+20.68.35.212 - 05-05-2024 16:07:21 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.71.89.238 - 05-05-2024 16:07:49 Germany -- BL0CK3D: "domain": "amazon.com"; "domain": "amazon.de"  
+178.197.202.212 - 05-05-2024 16:08:42 Switzerland -- REDIRECTED 
+178.197.202.212 - 05-05-2024 16:10:59 Switzerland -- REDIRECTED 
+178.197.202.212 - 05-05-2024 16:11:09 Switzerland -- REDIRECTED 
+18.237.255.246 - 05-05-2024 16:11:27 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+160.177.156.236 - 05-05-2024 16:11:29 Morocco -- REDIRECTED 
+178.197.202.212 - 05-05-2024 16:11:34 Switzerland -- REDIRECTED 
+20.218.24.94 - 05-05-2024 16:11:57 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.218.24.94 - 05-05-2024 16:12:02 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.71.125.77 - 05-05-2024 16:12:12 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.32.17.129 - 05-05-2024 16:12:20 United States -- BL0CK3D: "domain": "amazon.com"  
+13.50.54.245 - 05-05-2024 16:12:20 Sweden -- BL0CK3D: "domain": "amazon.com"  
+3.234.68.150 - 05-05-2024 16:12:21 United States -- BL0CK3D: "domain": "amazon.com"  
+94.100.133.41 - 05-05-2024 16:12:38 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:12:40 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.212.201.123 - 05-05-2024 16:12:45 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:12:58 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:13:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.92 - 05-05-2024 16:13:05 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.92 - 05-05-2024 16:13:05 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.36 - 05-05-2024 16:13:06 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.68 - 05-05-2024 16:13:07 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.60 - 05-05-2024 16:13:09 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.45 - 05-05-2024 16:13:09 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.27 - 05-05-2024 16:13:10 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.19 - 05-05-2024 16:13:10 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.227.77 - 05-05-2024 16:13:10 South Korea -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.12 - 05-05-2024 16:13:12 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.226.55 - 05-05-2024 16:13:14 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 16:14:30 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:14:30 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:14:32 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 16:14:33 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.108.186.9 - 05-05-2024 16:15:21 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+178.197.202.212 - 05-05-2024 16:17:15 Switzerland -- REDIRECTED 
+85.2.28.201 - 05-05-2024 16:19:29 Switzerland -- REDIRECTED 
+52.24.60.110 - 05-05-2024 16:20:43 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+196.81.51.73 - 05-05-2024 16:21:36 Morocco -- REDIRECTED 
+213.142.178.99 - 05-05-2024 16:23:12 Switzerland -- REDIRECTED 
+83.246.65.28 - 05-05-2024 16:24:48 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 16:24:50 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+212.51.129.137 - 05-05-2024 16:25:34 Switzerland -- REDIRECTED 
+82.136.111.62 - 05-05-2024 16:26:21 Switzerland -- REDIRECTED 
+194.56.132.18 - 05-05-2024 16:27:10 Switzerland -- REDIRECTED 
+94.100.133.41 - 05-05-2024 16:27:46 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:27:49 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.88.21 - 05-05-2024 16:27:51 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.103.56 - 05-05-2024 16:28:02 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.40 - 05-05-2024 16:28:08 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:28:44 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:28:46 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 16:28:50 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+185.220.101.17 - 05-05-2024 16:32:51  -- BL0CK3D: "is_tor": true; "is_known_abuser": true; "is_threat": true  
+178.238.173.146 - 05-05-2024 16:36:15 Switzerland -- REDIRECTED 
+94.100.133.41 - 05-05-2024 16:37:34 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.25.173 - 05-05-2024 16:37:39 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.227.97 - 05-05-2024 16:38:02 South Korea -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:38:09 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.201.159.163 - 05-05-2024 16:39:52 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+94.100.133.41 - 05-05-2024 16:42:06 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.108.186.9 - 05-05-2024 16:42:26 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:42:40 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+84.17.52.169 - 05-05-2024 16:48:03 Switzerland -- BL0CK3D: "is_vpn": true  
+45.81.148.184 - 05-05-2024 16:48:39 Canada -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:52:39 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:52:41 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 16:53:01 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+46.127.101.87 - 05-05-2024 16:53:14 Switzerland -- REDIRECTED 
+40.94.95.68 - 05-05-2024 16:53:45 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.25 - 05-05-2024 16:53:50 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+213.142.188.7 - 05-05-2024 16:56:38 Switzerland -- REDIRECTED 
+20.216.152.135 - 05-05-2024 16:56:47 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+172.225.188.244 - 05-05-2024 16:57:22 Switzerland -- REDIRECTED 
+37.252.191.29 - 05-05-2024 16:57:39 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.154.226.170 - 05-05-2024 16:57:59 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+196.242.57.91 - 05-05-2024 16:58:00 Australia -- BL0CK3D:  NOT FROM "country_code": "CH" 
+205.169.39.68 - 05-05-2024 16:58:12 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+205.169.39.68 - 05-05-2024 16:58:16 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.31.52 - 05-05-2024 16:59:01 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+91.92.20.83 - 05-05-2024 16:59:05 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.35.195.58 - 05-05-2024 16:59:57 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+178.195.89.205 - 05-05-2024 16:59:58 Switzerland -- REDIRECTED 
+54.203.208.114 - 05-05-2024 16:59:59 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+52.43.192.129 - 05-05-2024 17:00:00 United States -- BL0CK3D: "domain": "amazon.com"  
+178.197.202.196 - 05-05-2024 17:00:26 Switzerland -- REDIRECTED 
+178.197.202.196 - 05-05-2024 17:01:03 Switzerland -- REDIRECTED 
+45.141.215.111 - 05-05-2024 17:01:51  -- BL0CK3D: "is_tor": true; "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+204.217.145.121 - 05-05-2024 17:02:51 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+51.255.131.153 - 05-05-2024 17:02:58 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+50.112.212.38 - 05-05-2024 17:02:59 United States -- BL0CK3D: "domain": "amazon.com"  
+50.112.212.38 - 05-05-2024 17:03:01 United States -- BL0CK3D: "domain": "amazon.com"  
+3.90.26.25 - 05-05-2024 17:03:05 United States -- BL0CK3D: "domain": "amazon.com"  
+35.243.23.132 - 05-05-2024 17:03:05 United States -- BL0CK3D: "domain": "google.com"  
+13.59.139.149 - 05-05-2024 17:03:05 United States -- BL0CK3D: "domain": "amazon.com"  
+18.225.195.74 - 05-05-2024 17:03:05 United States -- BL0CK3D: "domain": "amazon.com"  
+35.222.190.7 - 05-05-2024 17:03:06 United States -- BL0CK3D: "name": "Google"; "domain": "google.com"  
+4.185.141.211 - 05-05-2024 17:03:06 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+35.243.23.130 - 05-05-2024 17:03:06 United States -- BL0CK3D: "domain": "google.com"  
+4.185.141.211 - 05-05-2024 17:03:07 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+35.84.45.130 - 05-05-2024 17:03:14 United States -- BL0CK3D: "domain": "amazon.com"  
+31.11.10.234 - 05-05-2024 17:03:17 Switzerland -- REDIRECTED 
+185.220.101.105 - 05-05-2024 17:03:24  -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+89.149.41.11 - 05-05-2024 17:04:25 Singapore -- BL0CK3D: "is_vpn": true  
+176.100.243.133 - 05-05-2024 17:05:15 Russia -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+94.100.133.41 - 05-05-2024 17:05:17 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 17:05:20 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+109.70.100.70 - 05-05-2024 17:05:29  -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+185.220.101.70 - 05-05-2024 17:05:41  -- BL0CK3D: "is_tor": true; "is_known_abuser": true; "is_threat": true  
+116.212.190.213 - 05-05-2024 17:06:22 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 17:07:53 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 17:07:55 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+104.47.51.254 - 05-05-2024 17:13:47 The Netherlands -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+85.2.163.66 - 05-05-2024 17:13:48 Switzerland -- REDIRECTED 
+84.17.50.145 - 05-05-2024 17:14:19 United Kingdom -- BL0CK3D: "is_vpn": true; "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+185.104.187.119 - 05-05-2024 17:14:19 Hungary -- BL0CK3D: "is_vpn": true; "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+92.62.120.100 - 05-05-2024 17:14:20 Armenia -- BL0CK3D: "is_vpn": true  
+92.17.142.98 - 05-05-2024 17:14:26 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.95.67 - 05-05-2024 17:15:15 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.61.132.238 - 05-05-2024 17:18:03 Switzerland -- REDIRECTED 
+92.62.120.100 - 05-05-2024 17:20:38 Armenia -- BL0CK3D: "is_vpn": true  
+45.149.3.35 - 05-05-2024 17:22:04 Venezuela -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+83.77.198.72 - 05-05-2024 17:23:32 Switzerland -- REDIRECTED 
+83.246.65.28 - 05-05-2024 17:24:47 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.246.65.28 - 05-05-2024 17:24:49 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 17:24:49 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 17:24:50 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+194.56.132.18 - 05-05-2024 17:24:51 Switzerland -- REDIRECTED 
+94.100.133.41 - 05-05-2024 17:24:51 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.113.207.22 - 05-05-2024 17:27:52 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.218.24.94 - 05-05-2024 17:27:56 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.201.164.181 - 05-05-2024 17:27:57 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+52.213.236.57 - 05-05-2024 17:28:00 Ireland -- BL0CK3D: "domain": "amazon.com"  
+35.222.73.112 - 05-05-2024 17:28:11 United States -- BL0CK3D: "name": "Google"; "domain": "google.com"  
+20.216.152.135 - 05-05-2024 17:28:16 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+5.153.125.10 - 05-05-2024 17:31:13 Switzerland -- REDIRECTED 
+40.94.105.42 - 05-05-2024 17:37:50 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.117.38.11 - 05-05-2024 17:38:26 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+77.59.201.185 - 05-05-2024 17:38:35 Switzerland -- REDIRECTED 
+77.59.201.185 - 05-05-2024 17:38:37 Switzerland -- REDIRECTED 
+3.253.124.193 - 05-05-2024 17:38:52 Ireland -- BL0CK3D: "domain": "amazon.com"  
+77.59.201.185 - 05-05-2024 17:39:14 Switzerland -- REDIRECTED 
+77.59.201.185 - 05-05-2024 17:39:16 Switzerland -- REDIRECTED 
+139.99.121.228 - 05-05-2024 17:46:33 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+212.35.17.182 - 05-05-2024 17:46:54 Switzerland -- REDIRECTED 
+212.35.17.182 - 05-05-2024 17:47:48 Switzerland -- REDIRECTED 
+31.31.48.134 - 05-05-2024 17:47:51 Switzerland -- REDIRECTED 
+81.20.94.240 - 05-05-2024 17:47:55 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 17:48:07 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+94.100.133.41 - 05-05-2024 17:48:09 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+35.91.210.167 - 05-05-2024 17:48:24 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+20.36.19.251 - 05-05-2024 17:48:41 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+178.197.211.185 - 05-05-2024 17:50:16 Switzerland -- REDIRECTED 
+178.197.207.83 - 05-05-2024 17:51:07 Switzerland -- REDIRECTED 
+178.197.199.91 - 05-05-2024 17:59:08 Switzerland -- REDIRECTED 
+52.138.168.188 - 05-05-2024 18:00:00 Ireland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.5 - 05-05-2024 18:00:00 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.11 - 05-05-2024 18:00:02 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.154.226.168 - 05-05-2024 18:03:35 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+95.181.235.156 - 05-05-2024 18:08:35 Saudi Arabia -- BL0CK3D: "is_vpn": true  
+104.47.22.126 - 05-05-2024 18:08:39 Switzerland -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+178.197.161.73 - 05-05-2024 18:08:41 Switzerland -- REDIRECTED 
+85.7.188.221 - 05-05-2024 18:10:13 Switzerland -- REDIRECTED 
+31.31.48.132 - 05-05-2024 18:10:16 Switzerland -- REDIRECTED 
+104.47.22.126 - 05-05-2024 18:10:30 Switzerland -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+178.197.161.73 - 05-05-2024 18:10:32 Switzerland -- REDIRECTED 
+40.94.29.100 - 05-05-2024 18:12:30 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+4.185.141.211 - 05-05-2024 18:13:35 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+107.189.31.33 - 05-05-2024 18:17:04  -- BL0CK3D: "is_tor": true; "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+87.102.195.1 - 05-05-2024 18:18:49 Switzerland -- REDIRECTED 
+31.171.146.3 - 05-05-2024 18:19:43 Switzerland -- REDIRECTED 
+52.143.136.36 - 05-05-2024 18:27:28 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.138.168.188 - 05-05-2024 18:27:37 Ireland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.87.56 - 05-05-2024 18:27:42 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.96.35 - 05-05-2024 18:27:44 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.15 - 05-05-2024 18:27:45 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.32 - 05-05-2024 18:27:47 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.5 - 05-05-2024 18:27:47 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.96.62 - 05-05-2024 18:27:48 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.37 - 05-05-2024 18:27:48 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.94.40 - 05-05-2024 18:27:49 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.88.37 - 05-05-2024 18:27:50 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.88.19 - 05-05-2024 18:27:50 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.97.31 - 05-05-2024 18:27:50 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.97.48 - 05-05-2024 18:27:50 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.103.96 - 05-05-2024 18:27:50 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.97.14 - 05-05-2024 18:27:52 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.23 - 05-05-2024 18:27:53 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.87.52 - 05-05-2024 18:27:54 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.96.2 - 05-05-2024 18:27:54 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.94.76 - 05-05-2024 18:27:54 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.87.37 - 05-05-2024 18:27:55 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.88.33 - 05-05-2024 18:28:04 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+31.171.146.3 - 05-05-2024 18:33:02 Switzerland -- REDIRECTED 
+176.100.243.133 - 05-05-2024 18:36:50 Russia -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+20.113.207.22 - 05-05-2024 18:37:30 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+178.39.204.193 - 05-05-2024 18:38:07 Switzerland -- REDIRECTED 
+40.94.25.38 - 05-05-2024 18:38:29 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+195.20.92.185 - 05-05-2024 18:42:12 Switzerland -- REDIRECTED 
+20.91.222.78 - 05-05-2024 18:42:36 Sweden -- BL0CK3D:  NOT FROM "country_code": "CH" 
+172.225.190.155 - 05-05-2024 18:47:43 Switzerland -- REDIRECTED 
+172.225.190.155 - 05-05-2024 18:47:55 Switzerland -- REDIRECTED 
+86.41.14.153 - 05-05-2024 18:49:05 Ireland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.204.208.16 - 05-05-2024 19:05:44 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.96.57 - 05-05-2024 19:07:50 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+178.197.195.13 - 05-05-2024 19:15:24 Switzerland -- REDIRECTED 
+40.94.87.45 - 05-05-2024 19:37:20 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.7 - 05-05-2024 19:37:20 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.78 - 05-05-2024 19:37:23 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+104.28.62.87 - 05-05-2024 20:07:18 Switzerland -- REDIRECTED 
+52.229.50.174 - 05-05-2024 20:09:33 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+213.188.232.60 - 05-05-2024 20:57:06 Switzerland -- REDIRECTED 
+62.167.103.192 - 05-05-2024 21:19:42 Switzerland -- REDIRECTED 
+195.144.60.202 - 05-05-2024 21:19:46 Switzerland -- REDIRECTED 
+195.144.60.202 - 05-05-2024 21:19:48 Switzerland -- REDIRECTED 
+146.185.66.215 - 05-05-2024 21:51:32 Switzerland -- REDIRECTED 
+40.94.103.83 - 05-05-2024 22:22:36 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+103.138.44.226 - 05-05-2024 22:35:12 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.97.77 - 06-05-2024 01:02:24 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+35.91.210.167 - 06-05-2024 01:12:16 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+35.92.46.189 - 06-05-2024 01:26:51 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+34.219.83.52 - 06-05-2024 01:26:53 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+40.94.104.2 - 06-05-2024 01:32:24 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+34.248.31.235 - 06-05-2024 01:32:59 Ireland -- BL0CK3D: "domain": "amazon.com"  
+40.94.96.73 - 06-05-2024 02:42:23 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.68.74.30 - 06-05-2024 02:55:22 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+34.208.216.127 - 06-05-2024 02:55:23 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+148.163.128.145 - 06-05-2024 02:55:28 United States -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+40.94.90.64 - 06-05-2024 03:17:19 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.105.67 - 06-05-2024 03:17:30 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+82.197.182.65 - 06-05-2024 03:21:06 Switzerland -- REDIRECTED 
+213.221.251.38 - 06-05-2024 03:23:26 Switzerland -- REDIRECTED 
+40.94.88.50 - 06-05-2024 03:52:22 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.96.40 - 06-05-2024 03:52:36 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+18.201.222.28 - 06-05-2024 03:52:59 Ireland -- BL0CK3D: "domain": "amazon.com"  
+34.242.223.122 - 06-05-2024 03:53:25 Ireland -- BL0CK3D: "domain": "amazon.com"  
+40.94.102.47 - 06-05-2024 04:22:39 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+104.47.51.254 - 06-05-2024 04:33:39 The Netherlands -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+104.28.62.88 - 06-05-2024 04:33:41 Switzerland -- REDIRECTED 
+217.148.11.15 - 06-05-2024 04:37:15 Switzerland -- REDIRECTED 
+54.156.84.153 - 06-05-2024 04:37:17 United States -- BL0CK3D: "domain": "amazon.com"  
+45.79.40.205 - 06-05-2024 04:37:35 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+163.172.155.73 - 06-05-2024 04:37:36 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+193.5.240.22 - 06-05-2024 04:43:14 Switzerland -- REDIRECTED 
+193.5.240.22 - 06-05-2024 04:43:17 Switzerland -- REDIRECTED 
+193.5.240.22 - 06-05-2024 04:43:20 Switzerland -- REDIRECTED 
+193.5.240.22 - 06-05-2024 04:43:22 Switzerland -- REDIRECTED 
+193.5.240.22 - 06-05-2024 04:43:39 Switzerland -- REDIRECTED 
+193.5.240.22 - 06-05-2024 04:43:42 Switzerland -- REDIRECTED 
+104.47.110.62 - 06-05-2024 04:48:04 Japan -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+16.16.54.106 - 06-05-2024 04:48:07 Sweden -- BL0CK3D: "domain": "amazon.com"  
+40.94.226.77 - 06-05-2024 04:48:44 Singapore -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.95.31 - 06-05-2024 05:08:06 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.226.34.61 - 06-05-2024 05:09:56 United States -- BL0CK3D: "domain": "amazon.com"  
+3.23.88.215 - 06-05-2024 05:09:56 United States -- BL0CK3D: "domain": "amazon.com"  
+3.137.192.173 - 06-05-2024 05:09:56 United States -- BL0CK3D: "domain": "amazon.com"  
+35.243.23.132 - 06-05-2024 05:09:56 United States -- BL0CK3D: "domain": "google.com"  
+35.222.190.7 - 06-05-2024 05:09:56 United States -- BL0CK3D: "name": "Google"; "domain": "google.com"  
+35.243.23.132 - 06-05-2024 05:09:57 United States -- BL0CK3D: "domain": "google.com"  
+146.4.22.129 - 06-05-2024 05:15:26 Switzerland -- REDIRECTED 
+52.102.18.53 - 06-05-2024 05:17:36 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+62.167.103.192 - 06-05-2024 05:30:21 Switzerland -- REDIRECTED 
+81.221.207.140 - 06-05-2024 05:36:57 Switzerland -- REDIRECTED 
+83.173.202.95 - 06-05-2024 05:38:20 Switzerland -- REDIRECTED 
+40.94.97.93 - 06-05-2024 05:44:05 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+144.200.17.42 - 06-05-2024 05:46:05 Switzerland -- REDIRECTED 
+176.100.243.133 - 06-05-2024 05:52:12 Russia -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+52.178.110.168 - 06-05-2024 06:06:58 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+205.169.39.168 - 06-05-2024 06:10:12 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+196.242.134.41 - 06-05-2024 06:10:16 Austria -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+205.169.39.168 - 06-05-2024 06:10:17 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+213.188.80.108 - 06-05-2024 06:11:41 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+194.68.170.61 - 06-05-2024 06:15:37 Sweden -- BL0CK3D: "is_vpn": true  
+104.165.199.220 - 06-05-2024 06:17:14 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+167.250.111.130 - 06-05-2024 06:18:11 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.155.30.101 - 06-05-2024 06:18:23 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+31.10.174.74 - 06-05-2024 06:19:53 Switzerland -- REDIRECTED 
+31.10.174.74 - 06-05-2024 06:20:30 Switzerland -- REDIRECTED 
+209.99.179.1 - 06-05-2024 06:27:55 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+195.15.223.150 - 06-05-2024 06:35:51 Switzerland -- REDIRECTED 
+195.144.60.202 - 06-05-2024 06:36:36 Switzerland -- REDIRECTED 
+195.144.60.202 - 06-05-2024 06:36:36 Switzerland -- REDIRECTED 
+54.197.173.170 - 06-05-2024 06:52:00 United States -- BL0CK3D: "domain": "amazon.com"  
+40.94.88.97 - 06-05-2024 06:52:41 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+104.47.22.126 - 06-05-2024 06:56:34 Switzerland -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+54.226.34.61 - 06-05-2024 07:00:33 United States -- BL0CK3D: "domain": "amazon.com"  
+35.243.23.132 - 06-05-2024 07:00:33 United States -- BL0CK3D: "domain": "google.com"  
+3.128.179.178 - 06-05-2024 07:00:33 United States -- BL0CK3D: "domain": "amazon.com"  
+3.143.246.244 - 06-05-2024 07:00:33 United States -- BL0CK3D: "domain": "amazon.com"  
+34.86.212.119 - 06-05-2024 07:00:34 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "name": "Google"; "domain": "google.com"  
+35.243.23.132 - 06-05-2024 07:00:34 United States -- BL0CK3D: "domain": "google.com"  
+51.195.199.91 - 06-05-2024 07:02:47 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+194.182.189.164 - 06-05-2024 07:11:36 Switzerland -- REDIRECTED 
+194.182.189.164 - 06-05-2024 07:12:13 Switzerland -- REDIRECTED 
+195.144.60.202 - 06-05-2024 07:12:38 Switzerland -- REDIRECTED 
+195.144.60.202 - 06-05-2024 07:12:38 Switzerland -- REDIRECTED 
+194.182.189.164 - 06-05-2024 07:13:17 Switzerland -- REDIRECTED 
+195.144.60.202 - 06-05-2024 07:15:48 Switzerland -- REDIRECTED 
+195.144.60.202 - 06-05-2024 07:15:48 Switzerland -- REDIRECTED 
+3.210.222.31 - 06-05-2024 07:29:36 United States -- BL0CK3D: "domain": "amazon.com"  
+38.205.190.5 - 06-05-2024 07:30:05 United States -- BL0CK3D: "is_vpn": true  
+107.23.11.141 - 06-05-2024 07:31:00 United States -- BL0CK3D: "domain": "amazon.com"  
+3.208.62.100 - 06-05-2024 07:31:12 United States -- BL0CK3D: "domain": "amazon.com"  
+64.120.28.55 - 06-05-2024 07:31:33 United States -- BL0CK3D: "is_vpn": true  
+3.232.40.240 - 06-05-2024 07:31:41 United States -- BL0CK3D: "domain": "amazon.com"  
+38.203.130.85 - 06-05-2024 07:32:06 United States -- BL0CK3D: "is_vpn": true  
+37.48.94.19 - 06-05-2024 07:33:27 The Netherlands -- BL0CK3D: "is_vpn": true  
+35.246.129.155 - 06-05-2024 07:34:09 Germany -- BL0CK3D: "name": "Google"; "domain": "google.com"  
+176.100.243.133 - 06-05-2024 07:34:49 Russia -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+194.124.135.5 - 06-05-2024 07:38:07 Switzerland -- REDIRECTED 
+40.94.105.2 - 06-05-2024 07:38:17 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+80.242.206.214 - 06-05-2024 07:45:03 Switzerland -- REDIRECTED 
+15.204.142.214 - 06-05-2024 07:45:57 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.204.142.214 - 06-05-2024 07:46:06 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.204.142.214 - 06-05-2024 07:46:12 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.204.142.214 - 06-05-2024 07:46:17 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+77.56.70.143 - 06-05-2024 07:46:22 Switzerland -- REDIRECTED 
+15.204.142.214 - 06-05-2024 07:46:23 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.204.142.214 - 06-05-2024 07:46:50 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+77.56.70.143 - 06-05-2024 07:47:20 Switzerland -- REDIRECTED 
+103.138.44.226 - 06-05-2024 07:54:09 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+103.138.44.226 - 06-05-2024 07:55:20 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+65.154.226.170 - 06-05-2024 08:01:54 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+146.70.85.162 - 06-05-2024 08:05:26 Poland -- BL0CK3D: "is_vpn": true  
+213.142.173.163 - 06-05-2024 08:10:10 Switzerland -- REDIRECTED 
+145.14.210.162 - 06-05-2024 08:10:10 Switzerland -- REDIRECTED 
+40.94.96.55 - 06-05-2024 08:42:41 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+34.213.43.121 - 06-05-2024 08:56:02 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+178.238.167.136 - 06-05-2024 09:10:30 Switzerland -- REDIRECTED 
+146.70.226.55 - 06-05-2024 09:12:22 Switzerland -- BL0CK3D: "is_vpn": true  
+40.94.87.26 - 06-05-2024 09:37:33 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+193.246.80.29 - 06-05-2024 09:47:28 Switzerland -- REDIRECTED 
+40.94.104.52 - 06-05-2024 10:03:03 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.87.26 - 06-05-2024 10:03:41 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+18.236.125.22 - 06-05-2024 10:11:20 United States -- BL0CK3D: "domain": "amazon.com"  
+13.80.183.173 - 06-05-2024 10:11:22 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+83.150.41.224 - 06-05-2024 10:17:06 Switzerland -- REDIRECTED 
+52.35.8.197 - 06-05-2024 10:31:26 United States -- BL0CK3D: "domain": "amazon.com"  
+195.162.166.20 - 06-05-2024 10:42:44 Switzerland -- REDIRECTED 
+195.162.166.20 - 06-05-2024 10:43:05 Switzerland -- REDIRECTED 
+82.192.234.172 - 06-05-2024 11:04:25 Switzerland -- REDIRECTED 
+104.47.22.126 - 06-05-2024 11:09:20 Switzerland -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+178.238.174.101 - 06-05-2024 11:09:22 Switzerland -- REDIRECTED 
+5.149.46.17 - 06-05-2024 11:21:08 Switzerland -- REDIRECTED 
+104.28.98.106 - 06-05-2024 11:52:05 Switzerland -- REDIRECTED 
+104.47.22.126 - 06-05-2024 12:00:51 Switzerland -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+178.238.174.143 - 06-05-2024 12:00:53 Switzerland -- REDIRECTED 
+104.47.22.126 - 06-05-2024 12:03:33 Switzerland -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+178.238.174.143 - 06-05-2024 12:03:34 Switzerland -- REDIRECTED 
+213.188.237.185 - 06-05-2024 12:13:10 Switzerland -- REDIRECTED 
+40.94.105.64 - 06-05-2024 12:22:27 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+18.211.255.43 - 06-05-2024 12:50:55 United States -- BL0CK3D: "domain": "amazon.com"  
+172.255.76.35 - 06-05-2024 12:51:18 United States -- BL0CK3D: "is_vpn": true  
+40.94.94.56 - 06-05-2024 12:57:50 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.55 - 06-05-2024 12:57:51 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.105.90 - 06-05-2024 12:57:53 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.95.3 - 06-05-2024 12:58:00 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.95.35 - 06-05-2024 12:58:06 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.87 - 06-05-2024 12:58:12 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.230.224.3 - 06-05-2024 13:02:02 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+4.222.16.107 - 06-05-2024 13:07:19 South Africa -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.218.24.94 - 06-05-2024 13:07:26 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.239.52 - 06-05-2024 13:17:03 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.68.35.127 - 06-05-2024 13:22:01 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.72 - 06-05-2024 13:22:28 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.88 - 06-05-2024 13:22:30 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.16 - 06-05-2024 13:22:31 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.105.68 - 06-05-2024 13:22:39 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.94.19 - 06-05-2024 13:22:44 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.20 - 06-05-2024 13:22:51 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+185.153.177.47 - 06-05-2024 13:44:09 Mexico -- BL0CK3D: "is_vpn": true  
+40.94.104.61 - 06-05-2024 13:52:35 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+146.4.22.129 - 06-05-2024 13:56:12 Switzerland -- REDIRECTED 
+40.94.88.33 - 06-05-2024 14:42:33 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.87.25 - 06-05-2024 14:42:39 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.104.38 - 06-05-2024 14:42:42 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.102.91 - 06-05-2024 14:42:49 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.103.32 - 06-05-2024 14:42:49 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.87.40 - 06-05-2024 14:42:55 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+23.101.201.52 - 06-05-2024 14:52:10 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.218.24.94 - 06-05-2024 14:52:18 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+115.89.74.126 - 06-05-2024 15:21:41 South Korea -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.169.3.85 - 06-05-2024 15:37:11 Ireland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.95.8 - 06-05-2024 15:37:25 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+212.35.17.182 - 06-05-2024 15:48:03 Switzerland -- REDIRECTED 
+40.94.94.15 - 06-05-2024 16:37:26 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.96.58 - 06-05-2024 17:02:25 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.105.54 - 06-05-2024 17:02:25 Austria -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.103.68 - 06-05-2024 17:02:38 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.143.136.36 - 06-05-2024 17:06:57 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.229.85.152 - 06-05-2024 17:16:58 Ireland -- BL0CK3D: "domain": "amazon.com"  
+3.252.120.200 - 06-05-2024 17:17:05 Ireland -- BL0CK3D: "domain": "amazon.com"  
+20.218.24.94 - 06-05-2024 17:17:11 Germany -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.77.57.90 - 06-05-2024 17:22:16 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.89.16 - 06-05-2024 17:27:21 The Netherlands -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.94.19 - 06-05-2024 17:27:22 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+149.28.35.63 - 06-05-2024 17:50:10 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+81.95.5.35 - 06-05-2024 17:53:35 Germany -- BL0CK3D: "is_vpn": true  
+88.84.28.247 - 06-05-2024 18:09:15 Switzerland -- REDIRECTED 
+196.81.15.231 - 06-05-2024 19:02:02 Morocco -- REDIRECTED 
+192.30.83.149 - 06-05-2024 20:43:03 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+52.41.8.5 - 06-05-2024 21:29:14 United States -- BL0CK3D: "domain": "amazon.com"  
+194.41.216.169 - 06-05-2024 21:40:07 Switzerland -- REDIRECTED 
+165.225.120.153 - 06-05-2024 22:05:42 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+212.51.147.94 - 07-05-2024 05:04:34 Switzerland -- REDIRECTED 
+65.50.204.82 - 07-05-2024 05:07:12 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.214.178.21 - 07-05-2024 06:05:49 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+84.17.52.169 - 07-05-2024 06:11:06 Switzerland -- BL0CK3D: "is_vpn": true  
+194.124.135.5 - 07-05-2024 07:09:13 Switzerland -- REDIRECTED 
+194.41.152.187 - 07-05-2024 07:24:53 Switzerland -- REDIRECTED 
+104.47.51.126 - 07-05-2024 07:27:52 United States -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+40.94.27.53 - 07-05-2024 07:32:48 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+81.95.5.40 - 07-05-2024 08:33:45 Germany -- BL0CK3D: "is_vpn": true  
+104.47.57.126 - 07-05-2024 08:35:37 United States -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+104.47.57.126 - 07-05-2024 08:35:41 United States -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+168.61.170.4 - 07-05-2024 08:35:59 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+40.94.28.49 - 07-05-2024 08:36:12 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.235.9.183 - 07-05-2024 08:37:52 Canada -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.235.9.183 - 07-05-2024 08:38:01 Canada -- BL0CK3D:  NOT FROM "country_code": "CH" 
+135.125.173.82 - 07-05-2024 08:39:30 France -- BL0CK3D:  NOT FROM "country_code": "CH" 
+193.5.240.22 - 07-05-2024 10:01:10 Switzerland -- REDIRECTED 
+193.5.240.22 - 07-05-2024 10:01:12 Switzerland -- REDIRECTED 
+193.5.240.22 - 07-05-2024 10:01:16 Switzerland -- REDIRECTED 
+193.5.240.22 - 07-05-2024 10:01:18 Switzerland -- REDIRECTED 
+138.199.24.29 - 07-05-2024 11:41:59 Singapore -- BL0CK3D: "is_vpn": true  
+143.244.54.130 - 07-05-2024 11:42:19 Romania -- BL0CK3D: "is_vpn": true  
+108.61.128.114 - 07-05-2024 13:22:12 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+45.77.111.185 - 07-05-2024 14:12:08 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+51.89.52.198 - 07-05-2024 18:52:47 United Kingdom -- BL0CK3D:  NOT FROM "country_code": "CH" 
+15.204.142.214 - 08-05-2024 00:40:00 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+213.142.173.163 - 08-05-2024 08:06:30 Switzerland -- REDIRECTED 
+3.82.137.253 - 08-05-2024 10:32:34 United States -- BL0CK3D: "domain": "amazon.com"  
+23.82.16.100 - 08-05-2024 10:32:55 United States -- BL0CK3D: "is_vpn": true  
+54.147.239.218 - 08-05-2024 13:01:46 United States -- BL0CK3D: "domain": "amazon.com"  
+52.26.29.101 - 08-05-2024 13:01:46 United States -- BL0CK3D: "domain": "amazon.com"  
+34.218.41.127 - 08-05-2024 13:01:46 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true; "domain": "amazon.com"  
+212.51.137.5 - 08-05-2024 14:22:23 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:34:08 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:34:58 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:34:59 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:35:15 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:35:23 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:35:41 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:37:00 Switzerland -- REDIRECTED 
+178.197.195.13 - 08-05-2024 19:38:18 Switzerland -- REDIRECTED 
+15.235.9.184 - 09-05-2024 00:34:42 Canada -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+40.94.31.59 - 09-05-2024 08:14:48 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+46.140.55.50 - 09-05-2024 12:56:26 Switzerland -- REDIRECTED 
+89.116.208.23 - 10-05-2024 10:31:43 Finland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+80.219.103.241 - 10-05-2024 16:30:12 Switzerland -- REDIRECTED 
+80.219.103.241 - 10-05-2024 16:30:29 Switzerland -- REDIRECTED 
+80.219.103.241 - 10-05-2024 16:30:35 Switzerland -- REDIRECTED 
+40.94.33.58 - 10-05-2024 17:46:08 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+31.11.12.57 - 11-05-2024 07:14:15 Switzerland -- REDIRECTED 
+188.147.5.207 - 12-05-2024 04:11:59 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.5.207 - 12-05-2024 04:12:01 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.5.207 - 12-05-2024 04:12:07 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.5.207 - 12-05-2024 12:15:31 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.5.207 - 12-05-2024 12:15:33 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.5.207 - 12-05-2024 12:15:36 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.5.207 - 12-05-2024 19:17:19 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.5.207 - 12-05-2024 19:17:21 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+54.204.104.225 - 13-05-2024 05:49:19 United States -- BL0CK3D: "domain": "amazon.com"  
+20.245.197.116 - 13-05-2024 06:51:26 United States -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+54.173.11.81 - 13-05-2024 07:20:51 United States -- BL0CK3D: "domain": "amazon.com"  
+62.141.32.117 - 13-05-2024 07:21:14 Germany -- BL0CK3D: "is_vpn": true  
+64.124.27.90 - 13-05-2024 13:40:28 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+64.124.27.90 - 13-05-2024 13:48:20 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.135.182.223 - 13-05-2024 20:05:12 United States -- BL0CK3D: "domain": "amazon.com"  
+35.243.23.131 - 13-05-2024 20:05:12 United States -- BL0CK3D: "domain": "google.com"  
+3.128.25.173 - 13-05-2024 20:05:12 United States -- BL0CK3D: "domain": "amazon.com"  
+44.202.87.242 - 13-05-2024 20:05:12 United States -- BL0CK3D: "domain": "amazon.com"  
+35.222.190.7 - 13-05-2024 20:05:12 United States -- BL0CK3D: "name": "Google"; "domain": "google.com"  
+35.243.23.130 - 13-05-2024 20:05:13 United States -- BL0CK3D: "domain": "google.com"  
+185.220.101.30 - 13-05-2024 20:05:13  -- BL0CK3D:  NOT FROM "country_code": "CH" 
+196.242.57.192 - 13-05-2024 21:05:22 Australia -- BL0CK3D:  NOT FROM "country_code": "CH" 
+58.251.94.154 - 13-05-2024 21:05:42 China -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+65.154.226.171 - 13-05-2024 21:06:01 United States -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+31.204.145.171 - 13-05-2024 21:10:23 Japan -- BL0CK3D: "is_vpn": true  
+176.100.243.133 - 13-05-2024 21:20:53 Russia -- BL0CK3D: "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+205.169.39.192 - 13-05-2024 21:31:57 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+205.169.39.192 - 13-05-2024 21:32:01 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+51.222.50.185 - 13-05-2024 22:07:38 Canada -- BL0CK3D:  NOT FROM "country_code": "CH" 
+145.14.135.90 - 13-05-2024 22:23:04 United States -- BL0CK3D: "is_vpn": true  
+13.36.169.142 - 13-05-2024 22:48:46 France -- BL0CK3D: "domain": "amazon.com"  
+104.244.210.245 - 13-05-2024 22:48:47 United States -- BL0CK3D: "is_vpn": true; "is_known_attacker": true; "is_known_abuser": true; "is_threat": true  
+193.218.35.69 - 13-05-2024 22:48:47 Peru -- BL0CK3D: "is_vpn": true  
+146.70.191.102 - 13-05-2024 22:48:47 United Arab Emirates -- BL0CK3D: "is_vpn": true  
+68.183.245.101 - 13-05-2024 22:48:50 India -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+52.58.51.176 - 13-05-2024 22:51:38 Germany -- BL0CK3D: "domain": "amazon.com"; "domain": "amazon.de"  
+51.195.55.167 - 13-05-2024 23:45:34 Jordan -- BL0CK3D: "is_known_abuser": true; "is_threat": true  
+115.89.74.126 - 14-05-2024 06:16:30 South Korea -- BL0CK3D:  NOT FROM "country_code": "CH" 
+108.61.128.114 - 15-05-2024 01:06:56 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+197.253.219.97 - 15-05-2024 08:45:31 Morocco -- REDIRECTED 
+100.25.192.105 - 15-05-2024 11:08:44 United States -- BL0CK3D: "domain": "amazon.com"  
+20.114.22.115 - 16-05-2024 20:20:31 United States -- BL0CK3D:  NOT FROM "country_code": "CH" 
+3.216.4.97 - 18-05-2024 03:14:45 United States -- BL0CK3D: "domain": "amazon.com"  
+212.103.49.25 - 18-05-2024 03:14:49 United States -- BL0CK3D: "is_vpn": true  
+212.203.51.49 - 20-05-2024 07:05:31 Switzerland -- REDIRECTED 
+196.64.75.101 - 20-05-2024 08:07:12 Morocco -- REDIRECTED 
+196.64.75.101 - 20-05-2024 08:07:24 Morocco -- REDIRECTED 
+196.64.75.101 - 20-05-2024 08:08:50 Morocco -- REDIRECTED 
+85.3.36.215 - 21-05-2024 09:33:10 Switzerland -- REDIRECTED 
+85.3.36.215 - 21-05-2024 09:33:21 Switzerland -- REDIRECTED 
+85.3.36.215 - 21-05-2024 09:34:21 Switzerland -- REDIRECTED 
+82.192.232.43 - 26-05-2024 09:52:19 Switzerland -- REDIRECTED 
+82.192.232.43 - 26-05-2024 09:52:38 Switzerland -- REDIRECTED 
+188.147.9.194 - 27-05-2024 21:24:35 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.9.194 - 27-05-2024 21:24:37 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.9.194 - 28-05-2024 06:24:17 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.9.194 - 28-05-2024 06:24:19 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.9.194 - 28-05-2024 12:24:49 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.9.194 - 28-05-2024 12:24:50 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+188.147.9.194 - 29-05-2024 10:28:54 Poland -- BL0CK3D:  NOT FROM "country_code": "CH" 
+14.97.93.10 - 11-06-2024 09:15:41 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+14.97.93.10 - 11-06-2024 11:11:59 India -- BL0CK3D:  NOT FROM "country_code": "CH" 
+20.74.151.243 - 15-07-2024 18:27:44 United Arab Emirates -- BL0CK3D:  NOT FROM "country_code": "CH" 
