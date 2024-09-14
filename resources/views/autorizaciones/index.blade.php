@@ -1,6 +1,9 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
 @extends('layouts.app')
+
 
 @section('content')
 
